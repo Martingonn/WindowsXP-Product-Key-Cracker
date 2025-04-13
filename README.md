@@ -3,7 +3,7 @@ If you need to quickly try out some codes for Windows XP VM, then this script is
 # What is it?
 The code tries out Product Keys from a list and inputs them into selected VM as keyboard inputs. You can just leave it and wait for the corect code!
 # Original Author 
-Development was started on March 27th, 2025, by Marcin Jacek Chmiel.
+Development was started on April 13th, 2025, by Marcin Jacek Chmiel.
 # Contributors 
 As of now, there are no more contributors than the original author.
 If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com*
