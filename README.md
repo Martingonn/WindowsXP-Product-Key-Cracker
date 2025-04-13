@@ -20,6 +20,8 @@ If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com
   # Done
   * Loading codes from file is now possible
 * Saving correct code into file
+* Bruteforcing codes (no list)
+* Bruteforcing AFTER list is finished
 
 # Downloads
 ![GitHub All Releases](https://img.shields.io/github/downloads/Martingonn/WindowsXP-Product-Key-Cracker/total)
