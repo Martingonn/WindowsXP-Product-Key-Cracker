@@ -17,7 +17,8 @@ If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com
 5. Done!
 
 # Future Additions
-* Loading codes from file
+  # Done
+  * Loading codes from file is now possible
 * Saving correct code into file
 
 # Downloads
