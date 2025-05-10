@@ -17,6 +17,7 @@ If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com
 5. Done!
 
 # Future Additions
+* Saving correct password to file
   # Done
   * Loading codes from file is now possible
 * Saving correct code into file
